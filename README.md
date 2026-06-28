@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Python Backend Developer focused on building scalable APIs, cloud-native applications, and data-driven backend systems.<br>🔭 Working with Python, FastAPI, PostgreSQL, AWS, and Apache Spark.<br>👯 Open to collaborating on Backend Engineering and Open Source projects.<br>🌱 Continuously learning System Design, Microservices, Kubernetes, and Cloud Technologies.<br>💬 Ask me about Python, FastAPI, REST APIs, PostgreSQL, AWS, Apache Spark, Docker, and Git.<br>⚡ Passionate about writing clean, maintainable, and production-ready code.
 
 
